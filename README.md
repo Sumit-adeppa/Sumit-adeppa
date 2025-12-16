@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-adeppa&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-adeppa" /> </p>
 
-- 🔭 I’m currently working on **Spring and Spring BOOT**
+- 🔭 I’m currently Learning **Spring and Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, Maven, MySQL**
 
