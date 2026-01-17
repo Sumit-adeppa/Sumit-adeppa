@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Backend Engineer and DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **Sales Savvy**
+- 🔭 I’m currently working on **Sales Savvy Project**
 
 - 🌱 I’m Completed learning **Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Maven, MySQL**
 
