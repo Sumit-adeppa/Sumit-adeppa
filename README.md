@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Backend Engineer and DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **Student Crud Api**
+- 🔭 I’m currently working on **Sales Savvy**
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Maven, MySQL**
+- 🌱 I’m Completed learning **Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Maven, MySQL**
 
-- 💬 Ask me about **Java,Spring,Spring Boot, Hibernate, SQL**
+- 💬 Ask me about **Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Maven, MySQL**
 
 - 📫 How to reach me **adeppasumit4@gmail.com**
 
