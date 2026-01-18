@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sales Savvy Project**
 
-- 🌱 I’m Completed learning **Java, OOPs, MySQL, JDBC, Maven, Hibernate, Spring Boot, Spring MVC, Spring Data JPA**
+- 🌱 I Completed learning **Java, OOPs, MySQL, JDBC, Maven, Hibernate, Spring Boot, Spring MVC, Spring Data JPA**
 
 - 💬 Ask me about **Java, Spring, Spring Boot, Hibernate, SQL**
 
