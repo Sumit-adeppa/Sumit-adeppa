@@ -86,7 +86,7 @@ I’m actively looking for opportunities to grow as a backend engineer and contr
   <a href="https://www.leetcode.com/sumit_1205" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
-  <a href="https://www.hackerearth.com/adeppasumit4" target="_blank">
+  <a href="https://www.hackerrank.com/profile/adeppasumit4" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
   </a>
 </p>
