@@ -73,6 +73,30 @@ I’m actively seeking opportunities to grow as a backend engineer and contribut
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <!-- Student Management System -->
+    <td width="50%" valign="top">
+      <h4>🎓 Student Management System – REST API</h4>
+      <p>
+        Backend REST API system for managing student records using a clean layered architecture and standardized API design.
+      </p>
+      <ul>
+        <li>Designed and developed RESTful APIs for student CRUD operations</li>
+        <li>Implemented request validation and centralized exception handling</li>
+        <li>Applied Controller–Service–Repository architecture for scalability and maintainability</li>
+        <li>Mapped relational entities using JPA and Hibernate for efficient persistence</li>
+      </ul>
+      <p>
+        🔧 <b>Tech Stack:</b> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL  
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sumit-adeppa" target="_blank">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <hr/>
 
 <h3 align="left">📜 Certifications</h3>
