@@ -73,7 +73,7 @@ I’m actively seeking opportunities to grow as a backend engineer and contribut
         🔧 <b>Tech Stack:</b> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL  
       </p>
       <p>
-        🔗 <a href="https://github.com/Sumit-adeppa/Cartify-Secure-E-Commence-Platform-Backend" target="_blank">View Repository</a>
+        🔗 <a href="https://github.com/Sumit-adeppa/Cartify4U" target="_blank">View Repository</a>
       </p>
     </td>
   </tr>
