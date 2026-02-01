@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Backend Java Developer | Spring Boot & REST APIs</h3>
+<h3 align="center">Backend Java Developer | Database Administrator | Java, SQL, Spring Boot & REST APIs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumit-adeppa&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-adeppa" />
@@ -10,42 +10,135 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-I’m a <b>Backend Java Developer</b> passionate about building scalable and reliable server-side applications using 
-<b>Java</b> and <b>Spring Boot</b>.<br/>
-I enjoy designing clean <b>REST APIs</b>, working with <b>databases</b>, and applying solid software engineering principles 
-to solve real-world problems.
+Backend Java Developer with hands-on experience in designing, developing, and maintaining 
+<b>RESTful web services</b> using <b>Java</b>, <b>Spring Boot</b>, <b>Hibernate</b>, and <b>MySQL</b>.<br/>
+Strong understanding of <b>layered architecture</b>, <b>CRUD operations</b>, <b>JPA</b>, <b>exception handling</b>, and 
+<b>API design principles</b>.
 </p>
 
 <p align="center">
-Currently, I’m working on an <b>E-Commerce backend project</b>, focusing on API design, data persistence, and performance optimization.<br/>
-I’m actively looking for opportunities to grow as a backend engineer and contribute to impactful software systems.
+I have internship experience in building production-style backend systems, debugging real-world issues, 
+optimizing database interactions, and delivering reliable features in agile environments.<br/>
+I’m actively seeking opportunities to grow as a backend engineer and contribute to impactful software systems.
 </p>
 
 <hr/>
 
 <ul>
   <li>🔭 Currently working on <b>E-Commerce Backend Project</b></li>
-  <li>🌱 Completed training in <b>Java, OOP, MySQL, JDBC, Maven, Hibernate, Spring Boot, Spring MVC, Spring Data JPA</b></li>
+  <li>🎓 B.E. in Computer Science & Engineering (CGPA: 7.42)</li>
+  <li>🏢 Former Full-Stack Development Intern at <b>KodNest Technologies</b> (Jun 2025 – Jan 2026)</li>
   <li>📫 Reach me at <b>adeppasumit4@gmail.com</b></li>
 </ul>
 
 <hr/>
 
-<h3 align="left">💬 Ask Me About</h3>
+<h3 align="left">💼 Internship Experience</h3>
 
-<b>Programming & Core</b>
+<b>Full-Stack Development Intern – KodNest Technologies (Jun 2025 – Jan 2026)</b>
 <ul>
-  <li>Java, SQL</li>
-  <li>Object-Oriented Programming, Data Structures, Algorithms</li>
+  <li>Designed and implemented backend modules using Java and Spring Boot following layered architecture (Controller, Service, Repository)</li>
+  <li>Built and tested RESTful APIs supporting CRUD operations with Spring Data JPA and Hibernate</li>
+  <li>Integrated backend services with frontend components using JSON-based APIs</li>
+  <li>Implemented centralized exception handling to improve API reliability and error consistency</li>
+  <li>Fixed production-style bugs, optimized queries, and improved code readability through structured code reviews</li>
+  <li>Collaborated in agile teams following SDLC practices</li>
 </ul>
 
-<b>Backend Frameworks</b>
+<b>AI-DevOps Engineer Intern – NSDC | IBM | Rooman Technology | Wadhwani Foundation  (Sept 2024 - Feb 2025 )</b>
 <ul>
-  <li>Spring Boot, Spring MVC, Spring Data JPA, Spring Data MongoDB</li>
-  <li>Hibernate, JDBC</li>
+  <li>Built CI/CD pipelines using Jenkins to automate build, test, and deployment processes. </li>
+  <li>Integrated GitHub with Jenkins for continuous integration workflows.  </li>
+  <li>Deployed the application to IBM Cloud with secure and environment-based configurations.  </li>
+  <li>Automated release workflows to improve deployment reliability.  </li>
 </ul>
 
-<b>Web & API Technologies</b>
+<hr/>
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center">
+  <tr>
+    <!-- Cartify – Secure E-Commerce Backend Application  -->
+    <td width="50%" valign="top">
+      <h4>🎓. Cartify – Secure E-Commerce Backend Application </h4>
+      <ul>
+          <li>Built backend services for product catalog, cart, checkout, and order workflows using Spring Boot and REST APIs. </li> 
+          <li>Implemented JWT-based authentication with role-based access control (Admin / Customer).  </li>
+          <li>Integrated Razorpay payment gateway with signature verification to ensure secure transactions.  </li>
+          <li>Designed admin modules for product management and sales tracking.  </li>
+          <li>Followed layered architecture (Controller-Service-Repository) for maintainability and scalability.   </li>
+      </ul>
+      <p>
+        🔧 <b>Tech Stack:</b> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL  
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sumit-adeppa/Cartify4U" target="_blank">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <!-- Student Management System -->
+    <td width="50%" valign="top">
+      <h4>🎓 Student Management System – REST API</h4>
+      <p>
+        Backend REST API system for managing student records using a clean layered architecture and standardized API design.
+      </p>
+      <ul>
+        <li>Designed and developed RESTful APIs for student CRUD operations</li>
+        <li>Implemented request validation and centralized exception handling</li>
+        <li>Applied Controller–Service–Repository architecture for scalability and maintainability</li>
+        <li>Mapped relational entities using JPA and Hibernate for efficient persistence</li>
+      </ul>
+      <p>
+        🔧 <b>Tech Stack:</b> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL  
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sumit-adeppa" target="_blank">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h3 align="left">📜 Certifications</h3>
+<ul>
+  <li>Full Stack Development – KodNest Technologies (Jun 2025 – Jan 2026)  </li>
+  <li>AI-DevOps Engineer - NSDC/ NASSCOM, NCVET Recognized – (Grade A, NSQF Level 5) </li>
+  <li>IBM CEP: Establishing a CI/CD Pipeline for Automated Deployment - IBM India (Apr 2025) </li>
+  <li>AI-DevOps Engineer Training – Rooman Technology Pvt. Ltd. (Sep 2024 – Feb 2025) </li>
+  <li>AWS Cloud Practitioner (Foundational 101) - Udemy </li>
+  <li>SQL (Intermediate) – HackerRank </li>
+  <li>Life Skills (Jeevan Kaushal) 2.0 - Wadhwani Foundation</li>
+</ul>
+
+<hr/>
+
+<h3 align="left">🏆 Achievements & Activities</h3>
+<ul>
+  <li>Delivered multiple backend-focused academic and internship projects aligned with real-world development practices</li>
+  <li>Recognized for quick learning, dependable task execution, and effective collaboration in team settings</li>
+</ul>
+
+<hr/>
+
+<h3 align="left">💬 Technical Skills</h3>
+
+<b>Programming Languages</b>
+<ul>
+  <li>Java</li>
+</ul>
+
+<b>Backend & Frameworks</b>
+<ul>
+  <li>Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC</li>
+</ul>
+
+<b>API Development</b>
 <ul>
   <li>RESTful APIs, CRUD Operations</li>
   <li>Request Validation, Exception Handling</li>
@@ -53,24 +146,23 @@ I’m actively looking for opportunities to grow as a backend engineer and contr
 
 <b>Databases</b>
 <ul>
-  <li>MySQL, Oracle, PostgreSQL, MongoDB</li>
+  <li>MySQL, Oracle, PostgreSQL</li>
 </ul>
 
 <b>ORM & Persistence</b>
 <ul>
-  <li>JPA, Hibernate ORM, HQL</li>
+  <li>Hibernate ORM, JPA, HQL</li>
 </ul>
 
-<b>Tools & Platforms</b>
+<b>Tools & Build</b>
 <ul>
-  <li>Git, GitHub, Maven, Postman</li>
-  <li>Docker (Basics), Linux (Basics)</li>
+  <li>Maven, Git, GitHub, Postman, Docker (Basics)</li>
 </ul>
 
-<b>Software Engineering Concepts</b>
+<b>Concepts</b>
 <ul>
-  <li>Layered Architecture, MVC Pattern, Controller-Service-Repository (CSR)</li>
-  <li>SDLC, Agile, Debugging, Code Review</li>
+  <li>OOP, Data Structures, Layered Architecture, MVC Pattern</li>
+  <li>SDLC, Debugging, Code Review, Agile</li>
 </ul>
 
 <hr/>
