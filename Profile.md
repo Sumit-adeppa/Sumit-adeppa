@@ -45,29 +45,35 @@ I’m actively seeking opportunities to grow as a backend engineer and contribut
   <li>Collaborated in agile teams following SDLC practices</li>
 </ul>
 
+<b>AI-DevOps Engineer Intern – NSDC | IBM | Rooman Technology | Wadhwani Foundation  (Sept 2024 - Feb 2025 )</b>
+<ul>
+  <li>Built CI/CD pipelines using Jenkins to automate build, test, and deployment processes. </li>
+  <li>Integrated GitHub with Jenkins for continuous integration workflows.  </li>
+  <li>Deployed the application to IBM Cloud with secure and environment-based configurations.  </li>
+  <li>Automated release workflows to improve deployment reliability.  </li>
+</ul>
+
 <hr/>
 
 <h3 align="center">🚀 Featured Projects</h3>
 
 <table align="center">
   <tr>
-    <!-- Student Management System -->
+    <!-- Cartify – Secure E-Commerce Backend Application  -->
     <td width="50%" valign="top">
-      <h4>🎓 Student Management System – REST API</h4>
-      <p>
-        Backend REST API system for managing student records using a clean layered architecture and standardized API design.
-      </p>
+      <h4>🎓. Cartify – Secure E-Commerce Backend Application </h4>
       <ul>
-        <li>Designed and developed RESTful APIs for student CRUD operations</li>
-        <li>Implemented request validation and centralized exception handling</li>
-        <li>Applied Controller–Service–Repository architecture for scalability and maintainability</li>
-        <li>Mapped relational entities using JPA and Hibernate for efficient persistence</li>
+          <li>Built backend services for product catalog, cart, checkout, and order workflows using Spring Boot and REST APIs. </li> 
+          <li>Implemented JWT-based authentication with role-based access control (Admin / Customer).  </li>
+          <li>Integrated Razorpay payment gateway with signature verification to ensure secure transactions.  </li>
+          <li>Designed admin modules for product management and sales tracking.  </li>
+          <li>Followed layered architecture (Controller-Service-Repository) for maintainability and scalability.   </li>
       </ul>
       <p>
         🔧 <b>Tech Stack:</b> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL  
       </p>
       <p>
-        🔗 <a href="https://github.com/Sumit-adeppa" target="_blank">View Repository</a>
+        🔗 <a href="https://github.com/Sumit-adeppa/Cartify-Secure-E-Commence-Platform-Backend" target="_blank">View Repository</a>
       </p>
     </td>
   </tr>
@@ -101,8 +107,13 @@ I’m actively seeking opportunities to grow as a backend engineer and contribut
 
 <h3 align="left">📜 Certifications</h3>
 <ul>
-  <li>SQL (Intermediate) – HackerRank</li>
-  <li>AWS Cloud Practitioner – Udemy</li>
+  <li>Full Stack Development – KodNest Technologies (Jun 2025 – Jan 2026)  </li>
+  <li>AI-DevOps Engineer - NSDC/ NASSCOM, NCVET Recognized – (Grade A, NSQF Level 5) </li>
+  <li>IBM CEP: Establishing a CI/CD Pipeline for Automated Deployment - IBM India (Apr 2025) </li>
+  <li>AI-DevOps Engineer Training – Rooman Technology Pvt. Ltd. (Sep 2024 – Feb 2025) </li>
+  <li>AWS Cloud Practitioner (Foundational 101) - Udemy </li>
+  <li>SQL (Intermediate) – HackerRank </li>
+  <li>Life Skills (Jeevan Kaushal) 2.0 - Wadhwani Foundation</li>
 </ul>
 
 <hr/>
