@@ -198,17 +198,3 @@ I’m actively seeking opportunities to grow as a backend engineer and contribut
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
-
-<hr/>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-adeppa&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-adeppa&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-adeppa" />
-</p>
