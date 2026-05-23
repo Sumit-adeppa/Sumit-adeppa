@@ -5,7 +5,7 @@
 
 - 🌱 I’m Completed learning **Java, Spring Boot, Hibernate, SQL, Python, Django, Docker, Git, GitHub**
 
-- 👨‍💻 All of my projects are available at [https://sumit-adeppa.github.io/portfolio/]([https://sumit-adeppa.github.io/portfolio/](https://sumit-adeppa.github.io/Portfolio/))
+- 👨‍💻 All of my projects are available at [https://sumit-adeppa.github.io/portfolio/](https://sumit-adeppa.github.io/Portfolio/)
 
 - 💬 Ask me about **Java Development, Backend Engineering, DevOps**
 
