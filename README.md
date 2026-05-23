@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Backend Engineer | Spring Boot · REST APIs · Docker · JWT · MongoDB | AI-Powered Systems | Open to FDE & Developer Advocate Roles</h3>
+<h3 align="center">Full Stack Engineer | Spring Boot · REST APIs · Docker · JWT · MySQL | AI-Powered Systems | Open to FDE & Developer Advocate Roles</h3>
 
 - 🔭 I’m completed working on [Cartify4U Modular E-Commerce Platform](https://github.com/Sumit-adeppa/Cartify4U.git)
 
