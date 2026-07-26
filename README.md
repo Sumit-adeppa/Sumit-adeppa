@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Full Stack Engineer | Spring Boot · REST APIs · Docker · JWT · MySQL | AI-Powered Systems | Open to FDE & Developer Advocate Roles</h3>
+<h3 align="center">Full Stack Developer | Open to FDE & Developer Advocate Roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-adeppa&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-adeppa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-adeppa" alt="sumit-adeppa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Cartify Modular eCommerce Platform](https://github.com/Sumit-adeppa/Cartify-Modular-eCommerce-Platform.git)
 
